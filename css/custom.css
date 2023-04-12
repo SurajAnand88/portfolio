@@ -703,6 +703,7 @@ header .navbar.sticky-header {
 }
 
 .single-portfolio-overlay {
+  width: 70%;
   position: absolute;
   top: 10px;
   left: 10px;
@@ -1748,4 +1749,5 @@ header .navbar.sticky-header {
 }
 
 .Image {
+  width: 75%;
 }
